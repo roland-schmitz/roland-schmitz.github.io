@@ -1,5 +1,6 @@
 ---
-title: Homepage of Roland Schmitz 
+title: Homepage of Roland Schmitz
+author: Roland Schmitz
 ---
 
 ## Roland Schmitz
