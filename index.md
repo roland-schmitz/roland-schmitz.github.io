@@ -1,11 +1,10 @@
 ---
-title: Homepage of Roland Schmitz
 author: Roland Schmitz
 ---
 
 ## Roland Schmitz
 
-Welcome to my GitHub homepage.
+Welcome to my GitHub User Pages.
 
 ### Projects
 
